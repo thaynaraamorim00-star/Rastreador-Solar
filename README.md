@@ -25,14 +25,6 @@ Os sensores LDR estão configurados em um **Divisor de Tensão** com resistores 
 
 O Arduino lê essas tensões, compara os valores e decide para qual lado girar o servo motor.
 
-## 🖥️ Simulação Online
-
-Este projeto foi desenvolvido e testado no simulador **Tinkercad**.
-Você pode visualizar o circuito e testar o código diretamente no navegador:
-
-🔗 **[[CLIQUE AQUI PARA VER A SIMULAÇÃO] (https://www.tinkercad.com/things/2bzslUl8p7D/editel?returnTo=%2Fdashboard)**
-
-*(Dica: Ao abrir a simulação, clique nos LDRs para ajustar a intensidade da luz e ver o motor se movendo)*
 
 ## 🔧 Como Reproduzir
 
