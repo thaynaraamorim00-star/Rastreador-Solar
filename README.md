@@ -30,7 +30,7 @@ O Arduino lê essas tensões, compara os valores e decide para qual lado girar o
 Este projeto foi desenvolvido e testado no simulador **Tinkercad**.
 Você pode visualizar o circuito e testar o código diretamente no navegador:
 
-🔗 **[CLIQUE AQUI PARA VER A SIMULAÇÃO] (Coloque_Seu_Link_do_Tinkercad_Aqui)**
+🔗 **[[CLIQUE AQUI PARA VER A SIMULAÇÃO] (https://www.tinkercad.com/things/2bzslUl8p7D/editel?returnTo=%2Fdashboard)**
 
 *(Dica: Ao abrir a simulação, clique nos LDRs para ajustar a intensidade da luz e ver o motor se movendo)*
 
